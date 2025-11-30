@@ -1,2 +1,2 @@
-# Objectdetection-using-yolo-and-opencv
-Real-Time Object Detection using OpenCV and MobileNet SSD
+# Facial Recognition Using CNN and RNN
+Real-Time Facial Recognition System Using Cnn And Rnn(LSTM)
